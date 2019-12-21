@@ -12,7 +12,7 @@ Dentro do *docker-compose.yml* terá a configuração e conteúdo dos serviços 
 
 ## Após configuração dos serviços:
 Acesse o pgadmin na porta da configurada no meu caso: [localhost:16543](http://localhost:16543/).
-Digite o usuario e senha definidos no *docker-compose.yml*: **PGADMIN_DEFAULT_EMAIL** **PGADMIN_DEFAULT_PASSWORD**
+Digite o usuario e senha definidos no *docker-compose.yml*: `PGADMIN_DEFAULT_EMAIL` e `PGADMIN_DEFAULT_PASSWORD`
 
 ## Como conectar e configuração no pgadmin:
 Para fazer a conexão ao banco de dados basta dentro do pgadmin.
