@@ -16,10 +16,10 @@ Digite o usuario e senha definidos no *docker-compose.yml*: **PGADMIN_DEFAULT_EM
 
 ## Como conectar e configuração no pgadmin:
 Para fazer a conexão ao banco de dados basta dentro do pgadmin.
-Host: `serverpostgres`
-Port: `5432`
-User: `postgres`
-password: `admin` (definida no *docker-compose.yml*)
+* Host: `serverpostgres`
+* Port: `5432`
+* User: `postgres`
+* Password: `admin` (definida no *docker-compose.yml*)
 
 ##### Imagem da configuração:
 ![Configuration](https://i.imgur.com/fEgEpIk.png)
