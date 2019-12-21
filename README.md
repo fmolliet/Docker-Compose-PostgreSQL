@@ -6,7 +6,7 @@ Dentro do *docker-compose.yml* terá a configuração e conteúdo dos serviços 
 * Para Windows faça o download pelo [Docker Hub](https://docs.docker.com/docker-for-windows/install/).
 
 ## Para começar: (após instalação)
-* Caso precise, mas não necessário, edite os acessos do docker!
+* Caso precise, mas não necessário, edite os acessos e configurações dos serviços!
 * Antes de iniciar crie uma pasta junto ao *docker-compose.yml* `/database-volume`
 * Abra o console no path inicie com: `docker-compose up`
 
